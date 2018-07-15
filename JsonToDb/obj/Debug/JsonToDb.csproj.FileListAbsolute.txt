@@ -1,0 +1,16 @@
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\JsonToDb.exe.config
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\JsonToDb.exe
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\JsonToDb.pdb
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Common.Logging.Core.dll
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Common.Logging.dll
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Common.Logging.pdb
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Common.Logging.xml
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Common.Logging.Core.xml
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Debug\JsonToDb.csprojAssemblyReference.cache
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Debug\JsonToDb.csproj.CoreCompileInputs.cache
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Debug\JsonToDb.csproj.CopyComplete
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Debug\JsonToDb.exe
+C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Debug\JsonToDb.pdb

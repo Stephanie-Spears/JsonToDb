@@ -1,7 +1,0 @@
-C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Release\JsonToDb.exe.config
-C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Release\JsonToDb.exe
-C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\bin\Release\JsonToDb.pdb
-C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Release\JsonToDb.csprojAssemblyReference.cache
-C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Release\JsonToDb.csproj.CoreCompileInputs.cache
-C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Release\JsonToDb.exe
-C:\Users\Stephanie\Desktop\Projects\JsonToDb\JsonToDb\obj\Release\JsonToDb.pdb
